@@ -2,10 +2,12 @@
 
 @section('title', 'Home')
     
-
+@section('jumbo')
+    <div class="jumbo">
+    </div>
+@endsection
 
 @section('content')
-    <h1>Sono il contenuto di home page</h1>
 
     <div class="box-container">
         <div class="box-series">

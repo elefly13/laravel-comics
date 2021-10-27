@@ -1,3 +1,6 @@
 <footer>
-    <h1>Sono footer</h1>
+    <div class="box-footer">
+        <div class="container">
+        </div>
+    </div>
 </footer>
